@@ -1,2 +1,2 @@
 # mdb-split
-Split pane layout in vanilla web-components  v1
+Resizable split pane layout in vanilla web-components  v1
